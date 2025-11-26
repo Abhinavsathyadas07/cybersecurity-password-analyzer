@@ -1,0 +1,9 @@
+bcrypt==4.1.2
+hashlib-additional==1.0.3
+streamlit==1.29.0
+plotly==5.18.0
+pandas==2.1.4
+python-dotenv==1.0.0
+passlib==1.7.4
+zxcvbn==4.4.28
+colorama==0.4.6
