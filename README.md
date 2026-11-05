@@ -8,7 +8,7 @@
 
 ## 🔐 Overview
 
-This project combines cybersecurity principles learned through internships at **Goldman Sachs** and **Mastercard** to deliver a robust password security analysis platform. It provides real-time password strength assessment, hash algorithm comparisons, vulnerability detection, and educational insights into password security best practices.
+This project applies cybersecurity principles from my **Goldman Sachs** and **Mastercard** job simulations on Forage to deliver a robust password security analysis platform. It provides real-time password strength assessment, hash algorithm comparisons, vulnerability detection, and educational insights into password security best practices.
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ This project combines cybersecurity principles learned through internships at **
 - Salt and pepper implementation demonstration
 
 ### 3. **Vulnerability Scanner**
-- Common password detection against 10,000+ known weak passwords
+- Common password detection against a bundled list of known weak passwords
 - Pattern-based attack simulation
 - Breach database cross-reference capability
 - Password reuse detection
@@ -136,7 +136,7 @@ cybersecurity-password-analyzer/
 
 This project demonstrates:
 
-- **Enterprise Security Practices**: Applied knowledge from Goldman Sachs governance and Mastercard security frameworks
+- **Enterprise Security Practices**: Applied ideas from the Goldman Sachs and Mastercard job simulations on Forage
 - **Cryptographic Principles**: Implementation of secure hashing, salting, and key derivation
 - **Risk Assessment**: Vulnerability identification and mitigation strategies
 - **Compliance Standards**: NIST SP 800-63B, OWASP password guidelines
@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abhinav T S**
 - GitHub: [@Abhinavsathyadas07](https://github.com/Abhinavsathyadas07)
-- LinkedIn: [Abhinav T S](https://www.linkedin.com/in/abhinav-t-s)
+- LinkedIn: [Abhinav T S](https://www.linkedin.com/in/abhinavsathyadas)
 - Email: abhinavsathyadas@gmail.com
 
 ## 🙏 Acknowledgments
